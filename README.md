@@ -9,3 +9,6 @@ Wowzer! Someone has given you a cheezburger!! would you eat it??
 
 
 Even if it says SEMI you should still use a virtual machine
+
+
+epilsepy warning! if you have epilsepy you shoudn't run this.
